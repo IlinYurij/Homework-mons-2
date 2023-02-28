@@ -1,0 +1,14 @@
+body {
+    background-color:black;
+}
+.light {
+    height: 350px;
+    width: 350px;
+    background-color:grey;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border:white 10px solid;
+
+
+}
